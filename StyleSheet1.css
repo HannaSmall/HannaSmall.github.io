@@ -1,0 +1,235 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+}
+
+/* main styles */
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px; 
+    margin: 0 auto;
+
+}
+
+.Main-content {
+    background-color: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+}
+
+/* about styles */
+.about {
+    margin-bottom: 40px;
+    
+}
+
+.about-position{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.about-name{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-bottom: 25px;
+}
+
+.about-description{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    padding: 0;
+    margin-left: -70px;
+    width: 600px;
+    
+}
+
+
+/* project styles */
+
+.projects {
+    margin-bottom: 30px;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+    padding-left: 150px;
+
+}
+
+ .project-list{
+    padding: 0;
+    margin-left: 10px;
+} 
+
+ .projects-item{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+} 
+
+.project {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+
+
+
+
+
+
+
+/* Education styles */
+
+.title-Education{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.speciality{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.title-Courses{
+font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+.period{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 10px;
+}
+
+/* Sidebar style */
+
+.Sidebar {
+    background-color: rgb(181 171 161);
+    padding-top: 40px;
+    width: 370px;
+}
+
+.photo {
+    width: 270px;
+    height: 350px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+}
+
+.Contacts, 
+.Tech-Skills,
+.Soft-Skills,.Language-skills {
+    margin-left: 40px;
+}
+
+.Contacts {
+    margin-bottom: 50px;
+}
+
+.Tech-Skills {
+    margin-bottom: 45px;
+}
+
+.Language-skills {
+    margin-bottom: 45px;
+}
+
+
+.Sidebar-title {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.Language-title {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.Contacts-type {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
+
+.Contact-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #e5e5e5;
+}
+
+.tech-skills-list {
+    color: #FFFFFF;
+    padding: 0;
+    margin-left: 17px;
+
+}
+
+.tech-skills-item {
+    color: #e5e5e5;
+
+}
+
+.tech-skills-text {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.Language-level {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
